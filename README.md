@@ -4,5 +4,8 @@
 
 <hr>
 
+### Whats Redfie Browser?
+- A Chromium based browser without any fishy nonsense added! Is it better then Brave Browser? probably not! Is it better then Google Chrome? Yes! As far as it not containing any Google tracking shit. This is simply because I don't know how to do all that shit!
+
 ### Changes and Logs
 - Redfie Browser has not been released yet!
